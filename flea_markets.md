@@ -13,32 +13,6 @@ Beyond shopping, Mauerpark is a cultural hub with a festive, open-air atmosphere
 **Cost per adult:** Free.
 **Images:** You can find images of Mauerpark Berlin flea market on stock photography websites like Shutterstock, iStock, Dreamstime, and Alamy.
 
-## Boxhagener Platz
-**Description:**
-The Boxhagener Platz flea market in Berlin is a large market held every Sunday in the heart of the vibrant student quarter of Friedrichshain, near Simon-Dach-Strasse. It's a popular spot for both locals and tourists to browse and find treasures. The market offers a wide variety of second-hand goods, including books, records, furniture, household equipment, fashion, clothes, bags, paintings, and decorative objects. It's particularly known for its many book and record stalls. While it's large enough to offer good variety, it's considered smaller and less overwhelming than some other Berlin flea markets like Mauerpark or Trödelmarkt Straße des 17. Juni, and is often less crowded. Many of the stalls are professionally run, meaning that while you can find unique items, great bargains on certain items might be less common.
-
-The market is situated around a small park, with numerous cafes and restaurants in the immediate vicinity, making it a good place to combine a visit with a Sunday brunch. The central meadow in the square also provides a place to relax after shopping. The market operates from 10 AM to 6 PM on Sundays, weather permitting.
-
-**Google Rating:** 4.4 (5,432 reviews)
-**Time Estimate:** 2-3 hours
-**Recommendation:** Nice to see
-**Cost per adult:** Free.
-**Images:** You can find images of Boxhagener Platz flea market on stock photography websites like Shutterstock and Alamy, and on visitBerlin.de.
-
-## Flea market at Kollwitzplatz
-**Description:**
-The Kollwitzplatz market in Berlin is a popular weekly market, known for its diverse offerings and lively atmosphere. It operates on Saturdays from 9 AM to 4 PM, and also hosts an "ecomarket" on Thursdays from 12 PM to 7 PM (until 6 PM in winter). While often referred to as a "flea market," the Kollwitzplatz market is primarily a farmers' and organic market, with a strong focus on fresh produce and ecological goods.
-
-Here's a breakdown of what you can find: A wide range of organic products, including fruits, vegetables from local Brandenburg farmers, natural food, fair trade products, fresh pasta, cheese, meat, fish, and various snacks like currywurst, falafel, crepes, and even oysters with champagne. You can also find handmade jewelry, fashionable accessories (scarves, shawls, hats, bags), children's clothing, natural cosmetics, pottery, and other artisanal items, as well as boutique chocolates, homemade oils, jams, and other delicacies.
-
-The market is a significant attraction for both locals and tourists, known for its friendly atmosphere and the direct sales from producers, ensuring fresh products. It's easily accessible by public transport, and driving is not recommended due to limited parking.
-
-**Google Rating:** 4.5 (1,234 reviews)
-**Time Estimate:** 2-3 hours
-**Recommendation:** Nice to see
-**Cost per adult:** Free.
-**Images:** You can find images of the Kollwitzplatz market on stock photo websites like Alamy, Getty Images, and Shutterstock.
-
 ## Holzmarkt
 **Description:**
 Holzmarkt Berlin is a vibrant cooperative urban quarter situated on the banks of the Spree River in Berlin-Friedrichshain. This unique area is the result of Berlin's largest and most sustainable urban development project, having emerged from the former techno club Bar25. It offers a diverse range of experiences, blending concerts, art, culture, gastronomy, and small businesses from the creative sector, making it a dynamic and multifaceted destination.
