@@ -1,4 +1,3 @@
-
 # Chapter 5: Passports, Pretzels, and Painted Walls
 
 The next day began at a place that felt like it was straight out of a spy movie: Checkpoint Charlie. Dad explained that this used to be the most famous crossing point between East and West Berlin. Now, it was a tourist spot with actors dressed as American soldiers and a replica of the guardhouse.
@@ -10,6 +9,8 @@ As her parents looked at the outdoor exhibits, Noa was approached by a beagle wi
 The beagle instructed her. She had to imagine a feeling of welcome, of safe passage. She held her wand and focused, whispering the German word for ‘welcome’: “*Willkommen*.”
 
 Her first attempt was… sparkly. Instead of a feeling of welcome, a tiny, shimmering, five-pointed star appeared on the tip of her nose. She looked at her parents. They had them too. So did the beagle. And the tourist standing next to them. Everyone within ten feet suddenly had a tiny, glittering star stamped on their nose.
+
+![A funny, sparkling scene at Checkpoint Charlie in Berlin. A cute 8-year-old girl, Noa, has a look of surprise as a magical, glittering five-pointed star appears on her nose. Her parents, a serious-looking beagle, and other nearby tourists all have matching sparkly stars on their noses and are looking at each other in amused confusion. The atmosphere is lighthearted and magical.](../../images/ch5_01.png)
 
 People started noticing, looking at each other and laughing. Soon, everyone was taking selfies with their sparkly noses. “Well, this is festive,” Ima said, examining her reflection in her phone.
 
@@ -31,7 +32,11 @@ A little dachshund with the important air of a head chef scurried past her, its 
 
 Noa decided to test the theory. She wanted to try a portion-multiplying spell on the giant pretzel her dad had bought, but she remembered the confetti dragon and the star-stamped noses. Maybe direct magic wasn’t the answer.
 
-Instead, she just did it the old-fashioned way. She broke off a piece of her pretzel and gave it to her mom. She gave another piece to her dad. She saw a little boy looking at their pretzel with wide eyes, so she asked her dad if it was okay, and then she walked over and offered him a piece too. The boy’s mom smiled at her, a big, warm, grateful smile.
+Instead, she just did it the old-fashioned way. She broke off a piece of her pretzel and gave it to her mom. She gave another piece to her dad. She saw a little boy looking at their pretzel with wide eyes, so she asked her dad if it was okay, and then she walked over and offered him a piece too.
+
+![A heartwarming scene in a bustling, colorful indoor market (Markthalle Neun). A cute 8-year-old girl, Noa, is offering a piece of her giant pretzel to a small, shy boy. Her parents look on with proud smiles. In the background, a small dachshund with an important air watches them approvingly. The market is full of people and delicious-looking food stalls, creating a warm, happy atmosphere.](../../images/ch5_02.png)
+
+The boy’s mom smiled at her, a big, warm, grateful smile.
 
 It was a small act, but the dachshund was right. It felt powerful. It was like with every bite she shared, the noisy, happy bubble of the market hall grew a little stronger, pushing back against the quiet, gray world of the fog.
 
@@ -45,17 +50,21 @@ Then she saw it. A patch of fog. It was thin and gray, clinging to one of the mo
 
 This was it. Her first real fight.
 
-She tried to brush the fog away with her hand, but it was like trying to catch smoke. She tried her polishing spell, but it did nothing. She even tried her new gateway spell, but the fog just swirled, unimpressed.
+She tried to brush the fog away with her hand, but it was like trying to catch smoke. She tried her polishing spell, but it did nothing. She eventried her new gateway spell, but the fog just swirled, unimpressed.
 
 She felt a moment of panic. What if she couldn’t do it? But then she remembered Mauerpark. She remembered the beat that had brought everyone together. She looked at the painted ribbon, at its flowing, rhythmic lines. It was like a song.
 
 She started to hum. It was the beat from the bucket drummers in the park. She held her wand like a conductor’s baton and traced the shape of the ribbon in the air, humming louder. She poured all her feelings into the sound—her love for the beautiful painting, her anger at the ugly fog, her hope for the city.
+
+![A powerful and magical moment at the East Side Gallery. An 8-year-old girl, Noa, stands before a famous mural of a colorful ribbon, which is being dulled by a patch of gray fog. She holds a twig wand like a conductor's baton, her eyes closed in concentration as she hums. Glowing threads of red, blue, and yellow lift from the painting, weaving around her wand, preparing to fight the fog. The scene is dramatic and full of vibrant color and emotion.](../../images/ch5_03.png)
 
 And the color answered.
 
 A thread of bright, pure red lifted from the painting, glowing in the air. Then came blue, then yellow, then green. The colors wove themselves around her wand, following the rhythm of her humming. She wasn’t creating new colors; she was just reminding the old ones how to sing.
 
 She aimed her wand at the wall and sent the colors streaming back into the mural. They hit the concrete with a soft *hiss*, and where they landed, the fog vanished. It didn’t just fade; it recoiled, pulling back from the vibrant, living color as if it had been burned.
+
+![A triumphant, beautiful scene at the East Side Gallery. A brave 8-year-old girl, Noa, aims her glowing wand at a mural on the Berlin Wall. A brilliant stream of pure color flows from her wand, hitting the wall and instantly dissolving a patch of ugly gray fog. The mural becomes intensely vibrant where the color touches it. Her parents watch from behind, their faces filled with awe and wonder.](../../images/ch5_04.png)
 
 Noa kept humming, her heart soaring, as she mended the entire ribbon, chasing the last wisps of gray away. When she was done, the mural was brighter and more beautiful than ever.
 

@@ -18,6 +18,8 @@ Noa took a deep breath, remembering what the squirrels had said about being poli
 
 From the observation deck, Berlin was a breathtaking map. Noa could see everything. She spotted the green expanse of the Tiergarten where she’d gotten her wand, and the glass dome of the Reichstag. She also saw a wide, straight boulevard lined with linden trees, and a cluster of important-looking buildings on an island in the middle of the river Spree.
 
+![A beautiful, colorful, panoramic view of Berlin from a high observation deck (the Fernsehturm). Below is a cityscape with a winding river, a large green park (Tiergarten), and an island with grand museum buildings. An 8-year-old girl, Noa, with dark hair and brown eyes, is looking out with a sense of wonder, her face pressed against the glass.](../../images/ch2_02.png)
+
 “That’s Unter den Linden,” said Dad, pointing. “And that’s Museum Island. A library of statues, you could say.”
 
 Noa’s ears perked up. A “library of statues” was exactly what the street cats had told her to find. She looked closely, tracing the path of the river, the green of the parks, and the stone of the buildings. Water, trees, stone. The three things she’d seen from the Reichstag dome, forming a giant triangle across the city. She had a feeling it was important.
@@ -35,6 +37,8 @@ Her parents wanted to walk along the grand boulevard, Unter den Linden. The air 
 Noa didn’t know which museum to start with, so she just stood on the lawn, her wand tucked in her pocket. She remembered the cat’s advice. Politeness was magic. She looked at the nearest grand building, the Altes Museum, with its tall columns, and said softly, “*Bitte schön*.” You’re welcome, or Here you go.
 
 It was a silly thing to say to a building, but as the words left her lips, something amazing happened. A flock of pigeons that had been pecking randomly at the grass suddenly organized themselves. They formed a perfectly straight, orderly queue, as if waiting to buy tickets. A moment later, the spell broke, and they scattered in a flutter of wings.
+
+![A comical scene in a grand European plaza (Berlin's Lustgarten). A flock of city pigeons has magically formed a perfectly straight, orderly queue. A cute 8-year-old girl, Noa, is standing nearby, giggling with her hand over her mouth, holding a small twig wand. In the background are grand museum buildings with columns. The style is colorful and whimsical.](../../images/ch2_03.png)
 
 Noa giggled. This magic was tricky.
 
@@ -55,6 +59,8 @@ All that listening made a magician hungry. Dad declared it was time for a treat.
 They sat at a small café upstairs. Her parents ordered coffee, but Dad insisted Noa try a Berlin specialty: Spaghetti-Eis. When it arrived, Noa stared. It looked exactly like a plate of spaghetti with tomato sauce and parmesan cheese, but it was made of ice cream! Vanilla ice cream was pushed through a press to make the “noodles,” strawberry sauce was the “tomato sauce,” and white chocolate shavings were the “cheese.”
 
 It was the funniest dessert she had ever seen. As she lifted her spoon, she remembered her manners. “*Bitte*,” she said to the ice cream, feeling a bit silly.
+
+![A close-up shot of a fantastical dessert called Spaghetti-Eis on a cafe table. The vanilla ice cream "noodles" are wiggling and dancing on their own, with strawberry "tomato sauce" sloshing gently. A cute 8-year-old girl, Noa, with big brown eyes, watches with a look of pure delight and astonishment, her spoon frozen mid-air. The scene is colorful and full of playful magic.](../../images/ch2_04.png)
 
 And the ice cream wiggled.
 

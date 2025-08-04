@@ -1,4 +1,3 @@
-
 # Chapter 6: Arks and Aerosols
 
 The next day, Noa’s parents took her to a museum that seemed to be built especially for her. It was called ANOHA, and it was the Children’s World of the Jewish Museum. The main feature was a giant, circular wooden ark, like Noah’s Ark from the Bible story. But this ark wasn’t for saving people from a flood; it was for learning how to take care of the world.
@@ -6,6 +5,8 @@ The next day, Noa’s parents took her to a museum that seemed to be built espec
 And it was filled with animals. Over 150 of them, all made from recycled materials. There was a lion with a mane made of yellow plastic tubing, a snake made of bottle caps, and an octopus with legs made of old fire hoses. It was the most creative place Noa had ever seen.
 
 As soon as she stepped inside, the animals started talking to her.
+
+![A whimsical and awe-inspiring scene inside the ANOHA Children's Museum. A cute 8-year-old girl, Noa, stands inside a giant wooden ark, surrounded by incredible animals made from recycled materials. A huge polar bear made of white tires is rumbling a greeting to her, an octopus with fire-hose legs waves, and a snake made of bottle caps hisses hello. The atmosphere is magical, creative, and full of wonder.](../../images/ch6_01.png)
 
 “Welcome, magician!” rumbled a giant polar bear made from white painted car tires. “We need your help.”
 
@@ -17,7 +18,11 @@ In the center of the ark, there was a workshop where kids could build their own 
 
 She held her wand over a little girl’s paper boat and whispered, “*Tz’mach*.” Grow.
 
-It didn’t make the boat bigger. Instead, a tiny, perfect, green paper leaf sprouted from the mast. The little girl gasped in delight. Noa smiled and moved to the next table. Soon, all the kids’ creations were sprouting paper leaves. A boy’s cardboard robot suddenly had leafy green antlers. A girl’s bottle-cap caterpillar grew a leafy tail. Even Dad, who was trying to make a paper hat, ended up with a big green leaf sticking out of the top like a feather.
+It didn’t make the boat bigger. Instead, a tiny, perfect, green paper leaf sprouted from the mast. The little girl gasped in delight. Noa smiled and moved to the next table. Soon, all the kids’ creations were sprouting paper leaves.
+
+![A joyful and creative workshop scene in the ANOHA museum. A group of children are building crafts from recycled materials at a large table. A cute 8-year-old girl, Noa, is touching her twig wand to their creations, and magical green paper leaves are sprouting from them. A cardboard robot now has leafy antlers, and a paper boat has a leaf for a sail. The children look delighted and surprised. The scene is full of happy, collaborative energy.](../../images/ch6_02.png)
+
+A boy’s cardboard robot suddenly had leafy green antlers. A girl’s bottle-cap caterpillar grew a leafy tail. Even Dad, who was trying to make a paper hat, ended up with a big green leaf sticking out of the top like a feather.
 
 Everyone laughed. It wasn’t a powerful spell, but it was a happy one. It made everyone feel like they were part of a team, a crew of builders working together to make the world a little greener and more creative. The fog couldn’t get in here. The air was too full of invention and shared purpose.
 
@@ -39,9 +44,13 @@ Then she turned to the people watching.
 
 “The wall is sad,” she said, her voice clear and steady. “It needs some kind words to feel better. Will you help me?”
 
+![A powerful, collaborative scene on a Berlin street (near Urban Nation museum). A large, colorful street art mural is being dulled by a thin gray fog. A determined 8-year-old girl, Noa, is placing the first colorful sticky note with the word "Kindness" on the wall. She is turning to a diverse group of onlookers—teenagers, families—and asking for their help. The scene captures a moment of hopeful connection.](../../images/ch6_03.png)
+
 At first, people just stared. But then her mom took a sticky note and wrote *Hope*. Her dad wrote *Laughter*. They added their notes to the wall. A teenage girl with blue hair shrugged, smiled, and wrote *Create* on a green note. Soon, everyone was joining in. They wrote words in German, in English, in Turkish, in Hebrew. *Peace. Friendship. Joy. Family. Dance.*
 
 The wall began to change. With each kindness tag that was added, the mural seemed to pulse with a soft light. The colors grew brighter, pushing back the fog. The gray mist dissolved under the wave of good feelings, unable to survive in the face of so much shared kindness.
+
+![A beautiful and moving image of a community healing a piece of art. The bottom of a wall covered in a street art mural is now adorned with a rainbow of colorful sticky notes, each bearing a positive word. The mural above is glowing with a soft, warm light, its colors intensely vibrant, as the last wisps of gray fog dissolve. People of all ages are smiling as they look at their collective work. The scene is full of hope, color, and community spirit.](../../images/ch6_04.png)
 
 When they were done, the bottom of the wall was a rainbow of hopeful words. The mural above it seemed to breathe a sigh of relief, its colors more vivid than ever.
 

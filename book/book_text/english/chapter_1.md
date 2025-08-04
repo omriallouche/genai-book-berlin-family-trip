@@ -1,4 +1,3 @@
-
 # Chapter 1: Gate of Whispers
 
 The air that greeted Noa as she stepped out of the taxi in Berlin was different. It was warm, yes, just like the August air in Tel Aviv, but it smelled of something else entirely—a mix of cool stone, sweet-scented trees, and something that tickled her nose like fizzy water. The sun, a friendly, buttery yellow, felt like it had no plans to go anywhere, even though it was already late in the afternoon.
@@ -9,9 +8,13 @@ Noa smiled. She was eight years old, and adventures were her favorite food group
 
 They were standing in a huge, wide-open square called Pariser Platz. In front of them stood the biggest gate Noa had ever seen. It was massive, with tall columns holding up a chariot and horses on top, all looking grand and important.
 
+![A wide establishing shot of Pariser Platz at golden hour with the Brandenburg Gate in the background. In the foreground, Noa (8, brown-black hair, brown eyes, pink shirt, backpack) steps from a taxi with Ima and Abba, each with a small suitcase. Friendly, lively street vibe; soft pastel sky; subtle sparkles on metal and glass. Cute, clean-line 2D look; regular humans only; no text.](../../images/ch1_01.png)
+
 “That, my little explorer,” said Ima, pointing, “is the Brandenburg Gate. It’s been watching over Berlin for a very long time.”
 
 As her parents took pictures, Noa wandered a little closer, her sneakers scuffing on the cobblestones. That’s when she saw him. A sleek tuxedo cat, black with a perfect white bib and paws, was sitting near the base of one of the columns, washing a single white whisker with intense focus.
+
+![Medium shot by a massive sandstone column of the Brandenburg Gate. A tuxedo cat looks up at Noa as if speaking. Noa kneels, surprised but delighted; parents are in the distant background taking photos and not noticing. Pastel tones, gentle moon-like glow behind the column; clean outlines; regular humans only.](../../images/ch1_02.png)
 
 Noa knelt down, as she always did with cats. “Shalom,” she whispered in Hebrew.
 
@@ -31,6 +34,8 @@ Before Noa could ask what fog, her dad called her over. “Noa, come on! Let’s
 
 She looked back at the cat, but it was gone. Had she imagined it? She shook her head. It felt too real. As she stood between her parents for the photo, she looked down at the cobblestones. They were a bit dusty. On an impulse, she focused on one stone at her feet and whispered the first magic word that popped into her head: “*Metzutzach*.” It was Hebrew for ‘polished.’
 
+![Close, low-angle shot of one cobblestone among dusty stones. Noa points; a tiny heat-haze shimmer and a ring of sparkles make that single stone gleam like a blue-sky mirror. Noa’s eyes wide; parents out of frame. Cute 2D pastel style; bold outlines; regular humans only.](../../images/ch1_03.png)
+
 A tiny shimmer, like heat haze, danced over the stone. When it faded, the single cobblestone gleamed, its surface so clean it reflected the blue sky like a tiny mirror.
 
 “Wow,” Noa breathed.
@@ -47,9 +52,13 @@ Noa knew it wasn’t jet lag. It was real. And she had a feeling this was only t
 
 Their next stop was a building with a giant glass dome on top, like a huge, glittering bubble. “The Reichstag,” Abba announced. “It’s where Germany’s government meets. We’re going all the way to the top.”
 
+![Daytime city scene with the Reichstag and its glass dome gleaming like a bubble. The family walks toward the entrance; Noa looks up, excited. Pastel palette, clean lines, soft rim-light; regular humans only; no text.](../../images/ch1_04.png)
+
 As they waited in line, a little terrier with a wiry coat and an important-looking beard trotted past. It stopped, sniffed the air, and then looked right at Noa.
 
 “You’re the one the cats were talking about,” it yapped, its tail giving a single, sharp wag. “Good. You’re here. The fog is getting worse, you know. It rises when the city forgets to listen.”
+
+![Street-level medium shot near the Reichstag queue. A wiry-haired terrier faces Noa mid-‘yap’. Noa leans in, pretending she’s just admiring the dog; parents nearby but oblivious. Cute pastel 2D; bold outlines; regular humans only.](../../images/ch1_05.png)
 
 There was that word again. *Fog*. “What fog?” Noa asked, trying to look like she was just admiring the dog.
 
@@ -68,6 +77,8 @@ She opened her eyes. Nothing looked different. But then, Abba yelped.
 “What in the world?”
 
 The pretzel crumbs on his shirt had lifted into the air. They were floating, orbiting his head in a slow, lazy circle like tiny, salty satellites. A woman standing nearby gasped. A security guard frowned, looking completely baffled.
+
+![Inside the Reichstag dome on the spiral ramp. Comedic scene: small pretzel crumbs orbit Abba’s head like satellites; Noa half-giggling with a finger to her lips; a nearby guard frowns; glass and steel reflections all around. Pastel colors; clean outlines; regular humans only.](../../images/ch1_06.png)
 
 “Abba, hold still!” Noa whispered, trying not to giggle.
 
@@ -93,6 +104,8 @@ One, a brave-looking squirrel with a very bushy tail, scampered down the trunk. 
 
 On the ground was a twig. It was perfectly straight, about as long as her forearm, with smooth bark and a tiny, hopeful leaf at its tip. It looked like a wand.
 
+![Under tall green trees at golden hour in the Tiergarten. A brave red squirrel has just dropped a straight twig before Noa. Noa picks up the twig-‘wand,’ a soft glow/sparkle around it; her parents sit on a bench in the distance. Warm, glowy pastels; cute 2D look; regular humans only.](../../images/ch1_07.png)
+
 Noa picked it up. It felt warm and right in her hand.
 
 “For me?” she asked softly.
@@ -102,6 +115,8 @@ The squirrels chittered in agreement. The brave one added, in a squeaky voice th
 Noa nodded seriously. She’d already made pretzel crumbs fly and polished a rock. She understood that this magic needed a gentle hand. “I promise,” she said to the squirrels. “I’ll practice. I won’t show off.”
 
 She held the twig wand and felt a little hum of energy from it, a quiet thrum that seemed to connect her to the trees, the ground, and the whole, vast, listening park. She was Noa, she was eight, and she was on vacation. But she was also, apparently, a magician. And she had a mission.
+
+![Evening in the Tiergarten with an orange-pink sky. Noa holds the twig like a listening stick, eyes closed, small smile; faint whimsical musical notes drift toward the distant city skyline. Subtle silhouettes of rooftops and far-off cat shapes on chimneys (not detailed). Pastel dusk tones; clean outlines; regular humans only.](../../images/ch1_08.png)
 
 As the sun began to dip lower, painting the sky in shades of orange and pink, she heard it. A faint sound, carried on the breeze from far away, a chorus of voices she now recognized. It was the cats of Berlin, and they were singing.
 

@@ -1,9 +1,10 @@
-
 # Chapter 7: The Palace of Quiet Footsteps
 
 The next day was a quiet day. Dad said that Sundays in Berlin were for relaxing, not for rushing around. Their plan was to visit Charlottenburg Palace and its huge, beautiful gardens. The swan feather on Noa’s bedside table reminded her of the message: *patience*.
 
 The palace was grand and golden, but it was the gardens that felt truly magical. There were long, straight paths lined with trees, a sparkling lake, and perfectly trimmed hedges that formed a maze. It was a place for strolling, not running.
+
+![A beautiful, serene scene in the gardens of Charlottenburg Palace. A grand, golden palace is visible in the background. In the foreground, a family of majestic white swans glides across a sparkling lake, seemingly escorting a cute 8-year-old girl, Noa, who is walking along the path with her parents. The atmosphere is peaceful, elegant, and filled with a sense of quiet magic.](../../images/ch7_01.png)
 
 As they walked towards the lake, a family of swans glided over to the shore. They weren’t just any swans; they were the most elegant, regal birds Noa had ever seen. They seemed to be escorting her, their long necks held high.
 
@@ -11,7 +12,11 @@ Noa felt the urge to try a big, impressive spell. Maybe she could make the fount
 
 She held her twig wand and whispered, “*Le’at*.” Slowly.
 
-The effect was not what she expected. Time didn’t slow down for the whole park, just for her and her parents. Suddenly, they were all moving in hilarious slow motion. Dad, who had been in the middle of a big step, seemed to hang in the air for a full five seconds before his foot landed. Ima, who was pointing at a statue, moved her arm with the syrupy slowness of an astronaut in space.
+The effect was not what she expected. Time didn’t slow down for the whole park, just for her and her parents. Suddenly, they were all moving in hilarious slow motion. Dad, who had been in the middle of a big step, seemed to hang in the air for a full five seconds before his foot landed.
+
+![A hilarious, slapstick-comedy scene in the beautiful gardens of Charlottenburg Palace. An 8-year-old girl, Noa, her mom, and her dad are all frozen in comical slow-motion poses. The dad is suspended mid-stride, one leg in the air. The mom is pointing at a statue with exaggerated slowness. Noa is trying to walk but looks like she's moving through honey. They are all starting to laugh, their faces full of surprise. The scene is sunny, elegant, and very funny.](../../images/ch7_02.png)
+
+Ima, who was pointing at a statue, moved her arm with the syrupy slowness of an astronaut in space.
 
 Noa tried to walk, but her legs felt like they were moving through invisible honey. She looked at her parents. They looked back at her, their faces frozen in surprise, and then they all burst out laughing. Their laughter, too, was deep and slow, like a record playing at the wrong speed.
 
@@ -31,6 +36,8 @@ Noa pulled out the city map they had picked up. “I think I’ve seen it,” sh
 
 She traced the three points on the map. They formed a large triangle. But where was the center? Where did they all converge?
 
+![A scene of focused discovery. Noa and her parents are sitting on a bench in the Charlottenburg gardens. They are huddled over a large map of Berlin. Noa, looking excited, is tracing a large triangle on the map with her finger, connecting the river, a park, and an island. Her parents look on with intrigued and serious expressions, fully invested in the magical quest. The scene is about family teamwork and solving a magical puzzle together.](../../images/ch7_03.png)
+
 She tried a little map-magic, tapping the center of the triangle with her wand and whispering, “Show me.”
 
 The map just swirled with confusing lines, one of which ended up spiraling right onto Dad’s nose.
@@ -43,9 +50,9 @@ It wasn’t just any water, trees, and stone. It was a place of memory. A place 
 
 Her eyes flew open. “The Natural History Museum!” she exclaimed.
 
-Her parents looked at her, confused.
+![A "eureka" moment. A close-up on the face of 8-year-old Noa. Her big brown eyes are wide with sudden realization and excitement. In the reflection of her eyes, we can see a faint image of a dinosaur skeleton. She has just solved the puzzle. Her parents look at her, their expressions a mixture of confusion and dawning understanding.](../../images/ch7_04.png)
 
-“It makes perfect sense!” she explained, her words tumbling out. “It’s a hall of stone, full of ancient things that came from the water and the earth. It’s a place where giants remember. Not just any giants. The kindest giants of all. The dinosaurs!”
+Her parents looked at her, confused. “It makes perfect sense!” she explained, her words tumbling out. “It’s a hall of stone, full of ancient things that came from the water and the earth. It’s a place where giants remember. Not just any giants. The kindest giants of all. The dinosaurs!”
 
 Dad’s eyes widened as he understood. “A hall of giants,” he breathed.
 
