@@ -1,6 +1,6 @@
 /* Kids Book Style - Lively and Modern Design */
 
-@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&family=Comic+Neue:wght@300;400;700&family=Fredoka+One&display=swap');
 
 :root {
   --primary-color: #FF6B9D;
@@ -21,11 +21,17 @@
 }
 
 body {
-  font-family: 'Comic Neue', cursive;
+  font-family: 'Comic Neue', 'Assistant', 'Arial', 'Varela Round', 'Noto Sans Hebrew', 'Tahoma', 'sans-serif';
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   min-height: 100vh;
   color: var(--text-color);
   line-height: 1.6;
+}
+
+.rtl {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Assistant', 'Arial', 'Varela Round', 'Noto Sans Hebrew', 'Tahoma', 'sans-serif';
 }
 
 .container {
@@ -302,4 +308,12 @@ body {
 
 .image-caption {
   display: none;
+}
+.dialogue {
+  padding: .5rem;
+}
+.rtl .content p:first-of-type::first-letter {
+  float: right;
+  margin-right: 0;
+  margin-left: 0.5rem;
 }

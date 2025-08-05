@@ -3,6 +3,7 @@ import os
 import re
 import glob
 from pathlib import Path
+import sys
 
 def process_markdown_content(content):
     """Process markdown content and convert to HTML with kids book styling"""
@@ -112,40 +113,32 @@ def create_html_page(chapter_num, title, content, total_chapters):
     return html_template
 
 def main():
-    # Get all markdown files
-    md_files = glob.glob('book/book_text/english/chapter_*.md')
+    import argparse
+    parser = argparse.ArgumentParser(description='Convert Markdown to HTML for kids book.')
+    parser.add_argument('--input_dir', type=str, required=True, help='Input directory with markdown files')
+    parser.add_argument('--output_dir', type=str, required=True, help='Output directory for HTML files')
+    args = parser.parse_args()
+
+    md_files = glob.glob(os.path.join(args.input_dir, 'chapter_*.md'))
     md_files.sort()  # Ensure they're in order
     
-    # Create output directory
-    output_dir = Path('book/book_text/html/english')
+    output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     
     print(f"Converting {len(md_files)} chapters...")
     
     for i, md_file in enumerate(md_files, 1):
         print(f"Processing {md_file}...")
-        
-        # Read markdown content
         with open(md_file, 'r', encoding='utf-8') as f:
             content = f.read()
-        
-        # Extract title
         title_match = re.search(r'^# (.+)$', content, re.MULTILINE)
         title = title_match.group(1) if title_match else f"Chapter {i}"
-        
-        # Process content
         processed_content = process_markdown_content(content)
-        
-        # Create HTML
         html_content = create_html_page(i, title, processed_content, len(md_files))
-        
-        # Write HTML file
         output_file = output_dir / f'chapter_{i}.html'
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(html_content)
-        
         print(f"Created {output_file}")
-    
     print(f"\nConversion complete! {len(md_files)} HTML files created in {output_dir}")
     print("CSS file: book/book_text/html/style.css")
 
