@@ -1,4 +1,3 @@
-
 # פֶּרֶק 1: שַׁעַר הַלְּחָשׁוּשִׁים
 
 הָאֲוִיר שֶׁקִּדֵּם אֶת פָּנֶיהָ שֶׁל נֹעָה כְּשֶׁיָּצְאָה מֵהַמּוֹנִית בְּבֶּרְלִין הָיָה שׁוֹנֶה. הוּא הָיָה חַם, אָכֵן, בְּדִיּוּק כְּמוֹ הָאֲוִיר שֶׁל אֹגֶסְט בְּתֵל אָבִיב, אֲבָל הָיָה לוֹ רֵיחַ שֶׁל מַשֶּׁהוּ אַחֵר לְגַמְרֵי – תַּעֲרֹבֶת שֶׁל אֶבֶן קְרִירָה, עֵצִים בַּעֲלֵי נִיחוֹחַ מָתוֹק, וּמַשֶּׁהוּ שֶׁדִּגְדֵּג לָהּ בָּאַף כְּמוֹ מַיִם תּוֹסְסִים. הַשֶּׁמֶשׁ, צְהֻבָּה וְחֶמְאָתִית, נָתְנָה תְּחוּשָׁה שֶׁאֵין לָהּ שׁוּם כַּוָּנָה לָזוּז, אַף שֶׁהַשָּׁעָה כְּבָר הָיְתָה שְׁעַת אַחַר הַצָּהֳרַיִם מְאֻחֶרֶת.
@@ -9,9 +8,13 @@
 
 הֵם עָמְדוּ בְּכִכָּר רַחֲבַת יָדַיִם שֶׁשְּׁמָהּ כִּכַּר פָּרִיז (Pariser Platz). מוּלָם נִצַּב הַשַּׁעַר הַגָּדוֹל בְּיוֹתֵר שֶׁרָאֲתָה נֹעָה מֵעוֹדָהּ. הוּא הָיָה עָצוּם, עִם עַמּוּדִים גְּבוֹהִים שֶׁנָּשְׂאוּ מֶרְכָּבָה רְתוּמָה לְסוּסִים, וְכֻלּוֹ שִׁדֵּר הָדָר וַחֲשִׁיבוּת.
 
+![A wide establishing shot of Pariser Platz at golden hour with the Brandenburg Gate in the background. In the foreground, Noa (8, brown-black hair, brown eyes, pink shirt, backpack) steps from a taxi with Ima and Abba, each with a small suitcase. Friendly, lively street vibe; soft pastel sky; subtle sparkles on metal and glass. Cute, clean-line 2D look; regular humans only; no text.](../../images/ch1_01.png)
+
 "זֶה, חוֹקֶרֶת קְטַנָּה שֶׁלִּי," אָמְרָה אִמָּא וְהִצְבִּיעָה, "זֶהוּ שַׁעַר בְּרַנְדֶּנְבּוּרְג (Brandenburg Gate). הוּא צּוֹפֶה עַל בֶּרְלִין זְמַן רַב מְאוֹד."
 
 בְּעוֹד הוֹרֶיהָ מְצַלְּמִים, נֹעָה שׁוֹטְטָה וְהִתְקָרְבָה מְעַט, נַעֲלֵי הַסְּפּוֹרְט שֶׁלָּהּ מִתְחַכְּכוֹת בְּאַבְנֵי הָרְחוֹב. וְאָז הִיא רָאֲתָה אוֹתוֹ. חָתוּל טוּקְסִידוֹ נֶהְדָּר, שָׁחֹר כְּפֶחָם וּלְחָזֵהוּ סִינָר לָבָן וּמֻשְׁלָם, יָשַׁב לְיַד בְּסִיסוֹ שֶׁל אֶחָד הָעַמּוּדִים וְלִקֵּק שָׂפָם לָבָן בְּרִכּוּז שָׁלֵם.
+
+![Medium shot by a massive sandstone column of the Brandenburg Gate. A tuxedo cat looks up at Noa as if speaking. Noa kneels, surprised but delighted; parents are in the distant background taking photos and not noticing. Pastel tones, gentle moon-like glow behind the column; clean outlines; regular humans only.](../../images/ch1_02.png)
 
 נֹעָה כָּרְעָה עַל בִּרְכֶּיהָ, כְּפִי שֶׁנָּהֲגָה לַעֲשׂוֹת תָּמִיד לְיַד חֲתוּלִים. "שָׁלוֹם," הִיא לָחֲשָׁה.
 
@@ -31,6 +34,8 @@
 
 הִיא הֵצִיצָה לְאָחוֹר אֶל הֶחָתוּל, אַךְ הוּא נֶעֱלַם. הַאִם רַק דִּמְיְנָה? הִיא נִעְנְעָה בְּרֹאשָׁהּ. זֶה הִרְגִּישׁ אֲמִתִּי מִדַּי. כְּשֶׁעָמְדָה בֵּין הוֹרֶיהָ לַצִּלּוּם, הִיא הִשְׁפִּילָה מַבָּט אֶל אַבְנֵי הָרְחוֹב. הֵן הָיוּ מְעַט מְאֻבָּקוֹת. בִּתְנוּפָה שֶׁל רֶגַע, הִיא הִתְמַקְּדָה בְּאֶבֶן אַחַת שֶׁלְּרַגְלֶיהָ וְלָחֲשָׁה אֶת מִלַּת הַקֶּסֶם הָרִאשׁוֹנָה שֶׁעָלְתָה בְּדַעְתָּהּ: "מְצֻחְצָח."
 
+![Close, low-angle shot of one cobblestone among dusty stones. Noa points; a tiny heat-haze shimmer and a ring of sparkles make that single stone gleam like a blue-sky mirror. Noa’s eyes wide; parents out of frame. Cute 2D pastel style; bold outlines; regular humans only.](../../images/ch1_03.png)
+
 נִצְנוּץ זָעִיר, כְּמוֹ אֵד חַם, רִחֵף מֵעַל הָאֶבֶן. כְּשֶׁנֶּעֱלַם, הִבְרִיקָה הָאֶבֶן הַיְּחִידָה, וּפָנֶיהָ הַנְּקִיִּים הֶחֱזִירוּ אֶת בָּבוּאַת הַשָּׁמַיִם הַכְּחֻלִּים כְּמַרְאָה קְטַנְטַנָּה.
 
 "וואו," פָּלְטָה נֹעָה.
@@ -47,9 +52,13 @@
 
 תַּחֲנָתָם הַבָּאָה הָיְתָה בִּנְיָן שֶׁעַל גַּגּוֹ כִּפַּת זְכוּכִית עֲנָקִית, כְּמוֹ בּוּעַת סַבּוֹן עֲנָקִית וְנוֹצֶצֶת. "הָרַיְיכְסְטָאג (Reichstag)," הִכְרִיז אַבָּא. "כָּאן יוֹשֶׁבֶת מֶמְשֶׁלֶת גֶּרְמַנְיָה. אֲנַחְנוּ נַעֲלֶה עַד לְמַעְלָה."
 
+![Daytime city scene with the Reichstag and its glass dome gleaming like a bubble. The family walks toward the entrance; Noa looks up, excited. Pastel palette, clean lines, soft rim-light; regular humans only; no text.](../../images/ch1_04.png)
+
 בְּעוֹדָם מַמְתִּינִים בַּתּוֹר, חָלַף עַל פְּנֵיהֶם טֶרְיֶר קָטָן בַּעַל פַּרְוָה זִיפִית וְזָקָן שֶׁהִקְנָה לוֹ מַרְאֶה חָשׁוּב. הוּא עָצַר, רִחְרֵחַ אֶת הָאֲוִיר, וְאָז נָעַץ אֶת מַבָּטוֹ יְשִׁירוֹת בְּנֹעָה.
 
 "אַתְּ זֹאת שֶׁהַחֲתוּלִים דִּבְּרוּ עָלֶיהָ," נָבַח, וּבְכַשְׁכּוּשׁ זָנָב יָחִיד וְחַד הוֹסִיף, "טוֹב שֶׁבָּאת. הֶעָרָפֶל הוֹלֵךְ וּמַחְמִיר, אַתְּ יוֹדַעַת. הוּא מִתְגַּבֵּר כְּשֶׁהָעִיר שׁוֹכַחַת לְהַקְשִׁיב."
+
+![Street-level medium shot near the Reichstag queue. A wiry-haired terrier faces Noa mid-‘yap’. Noa leans in, pretending she’s just admiring the dog; parents nearby but oblivious. Cute pastel 2D; bold outlines; regular humans only.](../../images/ch1_05.png)
 
 שׁוּב אוֹתָהּ מִלָּה. *עֲרָפֶל*. "אֵיזֶה עֲרָפֶל?" שָׁאֲלָה נֹעָה, מִתְאַמֶּצֶת לְשַׁוּוֹת לְעַצְמָהּ חָזוּת שֶׁל מִי שֶׁרַק מִתְפַּעֶלֶת מֵהַכֶּלֶב.
 
@@ -68,6 +77,8 @@
 "מָה זֶה, לְכָל הָרוּחוֹת?"
 
 פֵּרוּרֵי הַבֵּיגְלֶה שֶׁעַל חֻלְצָתוֹ נִתְּקוּ וְרִחֲפוּ בָּאֲוִיר. הֵם חָגוּ סְבִיב רֹאשׁוֹ בְּמַעְגָּל אִטִּי וְעַצְלָנִי, כְּמוֹ לַוְיָנִים מְלוּחִים וּזְעִירִים. אִשָּׁה שֶׁעָמְדָה בִּסְבִיבָה פָּעֲרָה פֶּה. שׁוֹמֵר בִּטָּחוֹן קִמֵּט אֶת מִצְחוֹ בְּמַבָּט נָבוֹךְ.
+
+![Inside the Reichstag dome on the spiral ramp. Comedic scene: small pretzel crumbs orbit Abba’s head like satellites; Noa half-giggling with a finger to her lips; a nearby guard frowns; glass and steel reflections all around. Pastel colors; clean outlines; regular humans only.](../../images/ch1_06.png)
 
 "אַבָּא, אַל תָּזוּז!" לָחֲשָׁה נֹעָה, מְנַסָּה לְהִתְאַפֵּק וְלֹא לִצְחֹק.
 
@@ -93,6 +104,8 @@
 
 עַל הָאֲדָמָה הָיָה מֻנָּח עֲנָף קָטָן. הוּא הָיָה יָשָׁר לְגַמְרֵי, בְּאֹרֶךְ זְרוֹעָהּ שֶׁל נֹעָה בְּקֵרוּב, עִם קְלִפָּה חֲלָקָה וְעָלֶה זָעִיר וְרַעֲנָן בִּקְצֵהוּ. הוּא נִרְאָה מַמָּשׁ כְּמוֹ שַׁרְבִיט.
 
+![Under tall green trees at golden hour in the Tiergarten. A brave red squirrel has just dropped a straight twig before Noa. Noa picks up the twig-‘wand,’ a soft glow/sparkle around it; her parents sit on a bench in the distance. Warm, glowy pastels; cute 2D look; regular humans only.](../../images/ch1_07.png)
+
 נֹעָה הֵרִימָה אוֹתוֹ. הַמַּגָּע בּוֹ הָיָה חַם וְנָעִים.
 
 "זֶה בִּשְׁבִילִי?" הִיא שָׁאֲלָה בְּרַכּוּת.
@@ -102,6 +115,8 @@
 נֹעָה הִנְהֲנָה בִּרְצִינוּת. הִיא כְּבָר גָּרְמָה לְפֵרוּרֵי בֵּיגְלֶה לָעוּף וְצִחְצְחָה סֶלַע. הִיא הֵבִינָה שֶׁהַקֶּסֶם הַזֶּה דּוֹרֵשׁ יָד עֲדִינָה. "אֲנִי מַבְטִיחָה," הִיא אָמְרָה לַסְּנָאִים. "אֲנִי אֶתְאַמֵּן, וְלֹא אֶשְׁוִיץ."
 
 הִיא אָחֲזָה בְּשַׁרְבִיט הֶעָנָף וְחָשָׁה בִּרְטִיטָה קַלָּה שֶׁל אֵנֶרְגְּיָה, זִמְזוּם שָׁקֵט שֶׁנִּדְמֶה כִּמְחַבֵּר אוֹתָהּ אֶל הָעֵצִים, אֶל הָאֲדָמָה, וְאֶל הַפַּארְק כֻּלּוֹ, הֶעָצוּם וְהַמַּקְשִׁיב. הִיא הָיְתָה נֹעָה, בַּת שְׁמוֹנֶה, וְהִיא הָיְתָה בְּחֻפְשָׁה. אֲבָל מִתַּבֵּר שֶׁהִיא גַּם הָיְתָה קוֹסֶמֶת. וְהָיְתָה לָהּ מְשִׂימָה.
+
+![Evening in the Tiergarten with an orange-pink sky. Noa holds the twig like a listening stick, eyes closed, small smile; faint whimsical musical notes drift toward the distant city skyline. Subtle silhouettes of rooftops and far-off cat shapes on chimneys (not detailed). Pastel dusk tones; clean outlines; regular humans only.](../../images/ch1_08.png)
 
 כְּשֶׁהַשֶּׁמֶשׁ שָׁקְעָה עוֹד וָעוֹד, וְצָבְעָה אֶת הַשָּׁמַיִם בִּגְוָנִים שֶׁל כָּתֹם וּוָרֹד, הִיא שָׁמְעָה אוֹתוֹ. צְלִיל חָלוּשׁ, שֶׁנִּשָּׂא עַל כַּנְפֵי הָרוּחַ מִמֶּרְחָק, מַקְהֵלַת קוֹלוֹת שֶׁכָּעֵת זִהֲתָה. אֵלּוּ הָיוּ חֲתוּלֵי בֶּרְלִין, שֶׁשָּׁרוּ יַחְדָּו.
 
