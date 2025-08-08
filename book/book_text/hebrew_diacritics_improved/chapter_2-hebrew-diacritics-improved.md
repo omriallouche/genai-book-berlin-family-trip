@@ -10,7 +10,7 @@
 
 ![A cute 8-year-old girl, Noa, with long dark hair standing straight up in all directions with crackling static electricity. She is wearing a yellow cat t-shirt and jeans. She looks surprised and slightly embarrassed inside a modern elevator, while her mom tries to smooth her hair down and a little boy points and giggles. The style is colorful and whimsical.](../../images/ch2_01.png)
 
-"אֵלִישֶׁבַע, נֹעָה," קָרְאָה אִמָּא, וְנִסְּתָה לְהַחְלִיק אֶת שְׂעָרָהּ. "נִהְיֵית לְכַלִּיא בְּרָקִים קָטָן!"
+"נֹעָה," קָרְאָה אִמָּא, וְנִסְּתָה לְהַחְלִיק אֶת שְׂעָרָהּ. "נִהְיֵית לְכַלִּיא בְּרָקִים קָטָן!"
 
 נֹעָה נָשְׁמָה עֲמֻקּוֹת, נִזְכֶּרֶת בְּמַה שֶּאָמְרוּ הַסְּנָאִים עַל נִימוּס וְהַקְשָׁבָה. הִיא הִתְמַקְּדָה בְּהַרְגָּעַת הָאֵנֶרְגְּיָה הַתּוֹסֶסֶת שֶׁבְּקִרְבָּהּ. לְאַט לְאַט, שְׂעָרָהּ שָׁב לִמְקוֹמוֹ. אִמָּהּ נִרְאֲתָה מֻרְשֶׁמֶת. "כָּל הַכָּבוֹד, מֹתֶק. נְשִׁימָה עֲמֻקָּה תָּמִיד מוֹעִילָה."
 
